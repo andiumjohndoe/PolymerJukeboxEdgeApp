@@ -16,6 +16,8 @@ import org.json.JSONObject;
  * Created by @Author lukewhittington
  * on 2016/09/29
  * Copyright of Andium, Inc.
+ * 
+ * Modified just for testing purposes
  */
 @AndiumApplication(author = "Luke", version=1, id="urn:andium:appid:JukeBoxEdgeExample")
 public class Application implements AndiumEdgeApp {
